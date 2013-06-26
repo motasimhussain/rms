@@ -4,6 +4,7 @@
     <list default="true" id="27de6964-2dad-46f8-8416-ad9b65bad4f8" name="Default" comment="" />
     <ignored path="rms.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/connect.php" changelist="27de6964-2dad-46f8-8416-ad9b65bad4f8" time="1372237722421" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +32,21 @@
       <file leaf-file-name="connect.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth/includes/connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="4" selection-start="5172" selection-end="7059" vertical-scroll-proportion="0.1303681">
+            <state line="133" column="0" selection-start="4488" selection-end="4488" vertical-scroll-proportion="0.23466258">
               <folding>
-                <marker date="1348731496877" expanded="false" signature="5456:5470" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="5593:5607" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="5730:5744" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="5868:5882" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6005:6019" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6143:6157" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6281:6295" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6418:6432" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6556:6570" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6694:6708" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6807:6821" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="6919:6933" placeholder="..." />
-                <marker date="1348731496877" expanded="false" signature="7006:7020" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="5456:5470" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="5593:5607" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="5730:5744" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="5868:5882" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6005:6019" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6143:6157" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6281:6295" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6418:6432" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6556:6570" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6694:6708" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6807:6821" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="6919:6933" placeholder="..." />
+                <marker date="1372237727699" expanded="true" signature="7006:7020" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -54,7 +55,7 @@
       <file leaf-file-name="process.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/includes/process.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="12" selection-start="587" selection-end="587" vertical-scroll-proportion="-0.65384614">
+            <state line="31" column="30" selection-start="1026" selection-end="1026" vertical-scroll-proportion="42.26923">
               <folding />
             </state>
           </provider>
@@ -75,11 +76,11 @@
         <option value="$PROJECT_DIR$/auth/includes/process.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/auth/view_stu.php" />
-        <option value="$PROJECT_DIR$/auth/includes/connect.php" />
         <option value="$PROJECT_DIR$/auth/includes/inc.header.php" />
         <option value="$PROJECT_DIR$/auth/projects/index.php" />
         <option value="$PROJECT_DIR$/auth/multi-rec.php" />
         <option value="$PROJECT_DIR$/../faizan/myFunc.php" />
+        <option value="$PROJECT_DIR$/auth/includes/connect.php" />
       </list>
     </option>
   </component>
@@ -201,12 +202,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="Errors" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../faizan/myFunc.php" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="localhost" serverId="ac724641-2e9d-446c-9169-8d58267b9afb" />
   <component name="RunManager" selected="PHP Script.index.php">
@@ -256,13 +257,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2840746" sideWeight="0.6703911" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28837878" sideWeight="0.6703911" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="23" y="312" width="1394" height="236" />
@@ -342,19 +343,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="20" selection-start="2709" selection-end="2709" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1348731496877" expanded="false" signature="5456:5470" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5593:5607" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5730:5744" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5868:5882" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6005:6019" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6143:6157" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6281:6295" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6418:6432" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6556:6570" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6694:6708" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6807:6821" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6919:6933" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="7006:7020" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5456:5470" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5593:5607" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5730:5744" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5868:5882" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6005:6019" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6143:6157" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6281:6295" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6418:6432" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6556:6570" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6694:6708" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6807:6821" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6919:6933" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="7006:7020" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -428,28 +429,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/includes/process.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="587" selection-end="587" vertical-scroll-proportion="-0.65384614">
+        <state line="31" column="30" selection-start="1026" selection-end="1026" vertical-scroll-proportion="42.26923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/includes/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="4" selection-start="5172" selection-end="7059" vertical-scroll-proportion="0.1303681">
+        <state line="133" column="0" selection-start="4488" selection-end="4488" vertical-scroll-proportion="0.23466258">
           <folding>
-            <marker date="1348731496877" expanded="false" signature="5456:5470" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5593:5607" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5730:5744" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="5868:5882" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6005:6019" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6143:6157" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6281:6295" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6418:6432" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6556:6570" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6694:6708" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6807:6821" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="6919:6933" placeholder="..." />
-            <marker date="1348731496877" expanded="false" signature="7006:7020" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5456:5470" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5593:5607" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5730:5744" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="5868:5882" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6005:6019" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6143:6157" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6281:6295" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6418:6432" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6556:6570" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6694:6708" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6807:6821" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="6919:6933" placeholder="..." />
+            <marker date="1372237727699" expanded="true" signature="7006:7020" placeholder="..." />
           </folding>
         </state>
       </provider>
