@@ -1,0 +1,87 @@
+#close {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 12px 12px 12px 12px;
+    color: #2E627C;
+    float: right;
+    font-family: tahoma;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    width: 25px;
+}
+
+#form_process {
+    margin: auto;
+    width: 300px;
+}
+
+#form_login select {
+    width: 84%;
+}
+
+#form_login {
+    margin: auto;
+    width: 175px;
+    height: 130px;
+}
+
+#form_process [type="text"] {
+    width: 96%;
+}
+
+#form_process table {
+    font-family: open sans;
+    font-size: 13px;
+    text-align: left;
+}
+
+#form_process select {
+    width: 100%;
+}
+
+#form_submit_popup {
+    background: none repeat scroll 0 0 #2E627C;
+    border: 1px solid #E0E0E0;
+    color: #FFFFFF;
+    float: left;
+    font-family: calibri;
+    font-size: 14px;
+    height: 30px;
+    left: 275px;
+    position: relative;
+    top: 15px;
+}
+
+#form_submit_normal {
+    background: none repeat scroll 0 0 #2E627C;
+    border: 1px solid #E0E0E0;
+    color: #FFFFFF;
+    float: right;
+    font-family: calibri;
+    font-size: 14px;
+    height: 30px;
+    margin-top: 7px;
+}
+
+#login-error {
+    float: left;
+    left: -100px;
+    position: relative;
+}
+
+#form_process table td {
+    width: 50%;
+}
+
+#right-width {
+    width: 70%;
+    margin: auto;
+}
+
+#right {
+    float: right;
+}
+
+#left {
+    float: left;
+}

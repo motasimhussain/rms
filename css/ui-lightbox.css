@@ -1,0 +1,41 @@
+#ui-lightbox {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#ui-lightbox > div {
+    background-color: #F8F8F8;
+    border-radius: 3px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    display: none;
+    margin: 100px auto;
+    width: 375px;
+}
+
+#ui-lightbox > div > .ui-lightbox-head {
+    color: #414F69;
+    font-family: "Calibri";
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+#ui-lightbox > div > .ui-lightbox-mid {
+    background-color: white;
+    border-bottom: 1px solid #D6D8E2;
+    border-top: 1px solid #D6D8E2;
+    color: #000000;
+    font-family: "Calibri";
+    padding: 10px;
+}
+
+#ui-lightbox > div > .ui-lightbox-foot {
+    font-family: "Calibri";
+    padding: 5px 15px 10px;
+    text-align: right;
+}

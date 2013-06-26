@@ -1,0 +1,199 @@
+@import url(http://fonts.googleapis.com/css?family=Russo+One);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    font-family: Lato;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+a img {
+    border: none;
+}
+
+#sub-heading {
+    display: inline;
+    font-family: 'Lato', Caliri;
+    font-size: 15px;
+    margin-left: 12px;
+}
+
+#wrapper {
+    background: none repeat scroll 0 0 #F2F5F7;
+    border-radius: 10px 10px 10px 10px;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+    width: 1004px;
+}
+
+p {
+    display: inline;
+    margin-left: 29px;
+}
+
+#main {
+    background: none repeat scroll 0 0 #3D71BD;
+    font-family: Calibri;
+    font-size: 12px;
+    font-weight: normal;
+    margin: auto;
+    padding-top: 1px;
+    width: 400px;
+}
+
+#result {
+    background: none repeat scroll 0 0 #E9ECEF;
+    border: 1px solid #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 270px;
+}
+
+#nav {
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+    top: -25px;
+    position: relative;
+    background: #fff;
+    border-radius: 5px 5px 0 0px;
+    width: 111px;
+    height: 25px;
+
+    font-size: 13px;
+    padding-top: 4px;
+    text-decoration: none;
+}
+
+#header {
+    background: none repeat scroll 0 0 #3D71BD;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    color: #FFFFFF;
+    height: 95px;
+    text-align: left;
+}
+
+#header .right {
+    float: right;
+    height: auto;
+    margin-right: 15px;
+    margin-top: 7px;
+    width: auto;
+}
+
+#header .right-img {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+#header .left {
+    float: left;
+    width: auto;
+}
+
+#heading-header {
+    font-family: Russo One;
+    font-size: 36px;
+    margin-left: 10px;
+}
+
+#heading-content {
+    color: #000000;
+    font-family: Calibri;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    text-transform: capitalize;
+    width: 95%;
+}
+
+h1 {
+    float: left;
+    height: auto;
+    margin-left: 20px;
+    width: 500px;
+}
+
+#footer {
+    margin-left: 10px;
+    text-align: center;
+}
+
+fieldset {
+    border-radius: 5px 5px 5px 5px;
+    margin: 6px;
+}
+
+#add_result input {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 13px;
+}
+
+#add_result {
+    margin: 40px;
+    text-align: center;
+}
+
+#header .right-button {
+    height: auto;
+    margin-left: 10px;
+    margin-top: 15px;
+    text-align: center;
+    width: auto;
+    float: left;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden
+}
+
+div#space {
+    width: 1px;
+    height: 50%;
+    margin-bottom: -384px;
+    float: left
+}
+
+div#container {
+    width: 994px;
+    height: 768px;
+    margin: 0 auto;
+    position: relative;
+    clear: left;
+    text-align: center;
+}
+
+#Image1 {
+    border: 0px #000000 solid;
+}
+
+#jQueryTabs1 {
+    padding: 4px 4px 4px 4px;
+    margin: 10px auto;
+
+}
+
+#jQueryTabs1 .ui-tabs-nav {
+    font-family: Tahoma;
+    font-size: 13px;
+    padding: 4px 4px 0px 4px;
+}
+
+#jQueryTabs1 .ui-tabs-nav li {
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px 2px -1px 0px;
+}
+
+#jQueryTabs1 .ui-tabs-nav li a {
+    padding: 8px 10px 8px 10px;
+}
