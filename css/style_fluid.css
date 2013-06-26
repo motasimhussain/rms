@@ -78,6 +78,7 @@ table {
     color: #FFFFFF;
     font-family: Tahoma;
     font-size: 25px;
+    text-transform:capitalize;
 }
 
 #topmenu {
