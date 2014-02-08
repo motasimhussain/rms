@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ <?php
+=======
 <?php
+>>>>>>> GithubRMS/master
 /*	include('includes/connect.php');
 	$records = mysql_query("SELECT * FROM abadmis", $db);
 	if($entries = @mysql_num_rows($records))
@@ -16,19 +20,32 @@
 	
 	mysql_close($db);
 
+<<<<<<< HEAD
+*/?>
+=======
 */
 ?>
+>>>>>>> GithubRMS/master
 <?php
 require_once ("includes/connect.php");
 mysql_select_db("information_schema") or die(mysql_error());
 $query1 = "SELECT `CREATE_TIME` FROM `TABLES` WHERE `TABLE_SCHEMA` LIKE '$databasename' AND `TABLE_NAME` LIKE '$table_name'";
 $result1 = mysql_query($query1) or die(mysql_error());
+<<<<<<< HEAD
+while($row = mysql_fetch_array($result1)){
+echo '<hr>';
+echo '<div id="footer" >Result created on: '. $row[0] . '</div>' ;
+}
+?>
+<br />
+=======
 while ($row = mysql_fetch_array($result1)) {
     echo '<hr>';
     echo '<div id="footer" >Result created on: ' . $row[0] . '</div>';
 }
 ?>
 <br/>
+>>>>>>> GithubRMS/master
 </div>
 </body>
 </html>

@@ -3,6 +3,16 @@
 
 body {
     background: none repeat scroll 0 0 #FFFFFF;
+<<<<<<< HEAD
+	font-family:Lato;
+	margin: 0;
+	padding: 0;
+	color: #000000;
+}
+a img {
+	border: none; 
+	}
+=======
     font-family: Lato;
     margin: 0;
     padding: 0;
@@ -13,13 +23,17 @@ a img {
     border: none;
 }
 
+>>>>>>> GithubRMS/master
 #sub-heading {
     display: inline;
     font-family: 'Lato', Caliri;
     font-size: 15px;
     margin-left: 12px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #wrapper {
     background: none repeat scroll 0 0 #F2F5F7;
     border-radius: 10px 10px 10px 10px;
@@ -28,12 +42,18 @@ a img {
     overflow: hidden;
     width: 1004px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 p {
     display: inline;
     margin-left: 29px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #main {
     background: none repeat scroll 0 0 #3D71BD;
     font-family: Calibri;
@@ -43,18 +63,28 @@ p {
     padding-top: 1px;
     width: 400px;
 }
+<<<<<<< HEAD
+#result {
+    background: none repeat scroll 0 0 #E9ECEF;
+    border: 1px solid #CCCCCC;
+    font-family: Arial,Helvetica,sans-serif;
+=======
 
 #result {
     background: none repeat scroll 0 0 #E9ECEF;
     border: 1px solid #CCCCCC;
     font-family: Arial, Helvetica, sans-serif;
+>>>>>>> GithubRMS/master
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 10px;
     padding: 5px;
     width: 270px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #nav {
     display: inline-block;
     margin: 0px 0px 0px 10px;
@@ -69,7 +99,10 @@ p {
     padding-top: 4px;
     text-decoration: none;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #header {
     background: none repeat scroll 0 0 #3D71BD;
     border: 2px solid #FFFFFF;
@@ -78,7 +111,10 @@ p {
     height: 95px;
     text-align: left;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #header .right {
     float: right;
     height: auto;
@@ -86,24 +122,36 @@ p {
     margin-top: 7px;
     width: auto;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #header .right-img {
     margin-left: auto;
     margin-right: auto;
     width: auto;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #header .left {
     float: left;
     width: auto;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #heading-header {
     font-family: Russo One;
     font-size: 36px;
     margin-left: 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #heading-content {
     color: #000000;
     font-family: Calibri;
@@ -113,35 +161,53 @@ p {
     text-transform: capitalize;
     width: 95%;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 h1 {
     float: left;
     height: auto;
     margin-left: 20px;
     width: 500px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #footer {
     margin-left: 10px;
     text-align: center;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 fieldset {
     border-radius: 5px 5px 5px 5px;
     margin: 6px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #add_result input {
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 13px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #add_result {
     margin: 40px;
     text-align: center;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #header .right-button {
     height: auto;
     margin-left: 10px;
@@ -150,6 +216,54 @@ fieldset {
     width: auto;
     float: left;
 }
+<<<<<<< HEAD
+html, body
+{
+   height: 100%;
+   overflow:hidden
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -384px;
+   float:left
+}
+div#container
+{
+   width: 994px;
+   height: 768px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+   text-align:center;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+}
+#jQueryTabs1
+{
+   padding: 4px 4px 4px 4px;
+   margin: 10px auto;
+   
+}
+#jQueryTabs1 .ui-tabs-nav
+{
+   font-family: Tahoma;
+   font-size: 13px;
+   padding: 4px 4px 0px 4px;
+}
+#jQueryTabs1 .ui-tabs-nav li
+{
+   font-weight: normal;
+   font-style: normal;
+   margin: 0px 2px -1px 0px;
+}
+#jQueryTabs1 .ui-tabs-nav li a
+{
+   padding: 8px 10px 8px 10px;
+=======
 
 html, body {
     height: 100%;
@@ -196,4 +310,5 @@ div#container {
 
 #jQueryTabs1 .ui-tabs-nav li a {
     padding: 8px 10px 8px 10px;
+>>>>>>> GithubRMS/master
 }

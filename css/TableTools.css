@@ -1,12 +1,21 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> GithubRMS/master
 div.DTTT_container {
     float: right;
     margin-bottom: 1em;
     position: relative;
     top: -50px;
 }
+<<<<<<< HEAD
+button.DTTT_button, div.DTTT_button, a.DTTT_button {
+    background: -moz-linear-gradient(center top , #FFFFFF 0%, #F3F3F3 89%, #F9F9F9 100%) repeat scroll 0 0 transparent;
+=======
 
 button.DTTT_button, div.DTTT_button, a.DTTT_button {
     background: -moz-linear-gradient(center top, #FFFFFF 0%, #F3F3F3 89%, #F9F9F9 100%) repeat scroll 0 0 transparent;
+>>>>>>> GithubRMS/master
     border: 1px solid #999999;
     border-radius: 2px 2px 2px 2px;
     box-shadow: 1px 1px 3px #CCCCCC;
@@ -18,11 +27,21 @@ button.DTTT_button, div.DTTT_button, a.DTTT_button {
     padding: 5px 8px;
     position: relative;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 button.DTTT_button {
     height: 30px;
     padding: 3px 8px;
 }
+<<<<<<< HEAD
+.DTTT_button embed {
+    outline: medium none;
+}
+button.DTTT_button:hover, div.DTTT_button:hover, a.DTTT_button:hover {
+    background: -moz-linear-gradient(center top , #F3F3F3 0%, #E2E2E2 89%, #F4F4F4 100%) repeat scroll 0 0 transparent;
+=======
 
 .DTTT_button embed {
     outline: medium none;
@@ -30,10 +49,18 @@ button.DTTT_button {
 
 button.DTTT_button:hover, div.DTTT_button:hover, a.DTTT_button:hover {
     background: -moz-linear-gradient(center top, #F3F3F3 0%, #E2E2E2 89%, #F4F4F4 100%) repeat scroll 0 0 transparent;
+>>>>>>> GithubRMS/master
     border: 1px solid #666666;
     box-shadow: 1px 1px 3px #999999;
     text-decoration: none !important;
 }
+<<<<<<< HEAD
+button.DTTT_disabled, div.DTTT_disabled, a.DTTT_disabled {
+    background: -moz-linear-gradient(center top , #FFFFFF 0%, #F9F9F9 89%, #FAFAFA 100%) repeat scroll 0 0 transparent;
+    border: 1px solid #D0D0D0;
+    color: #999999;
+}
+=======
 
 button.DTTT_disabled, div.DTTT_disabled, a.DTTT_disabled {
     background: -moz-linear-gradient(center top, #FFFFFF 0%, #F9F9F9 89%, #FAFAFA 100%) repeat scroll 0 0 transparent;
@@ -41,15 +68,48 @@ button.DTTT_disabled, div.DTTT_disabled, a.DTTT_disabled {
     color: #999999;
 }
 
+>>>>>>> GithubRMS/master
 button.DTTT_button_collection span {
     background: url("../images/collection.png") no-repeat scroll right center transparent;
     padding-right: 17px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 button.DTTT_button_collection:hover span {
     background: url("../images/collection_hover.png") no-repeat scroll right center #F0F0F0;
     padding-right: 17px;
 }
+<<<<<<< HEAD
+table.DTTT_selectable tbody tr {
+    cursor: pointer;
+}
+table.dataTable tr.DTTT_selected.odd {
+    background-color: #9FAFD1;
+}
+table.dataTable tr.DTTT_selected.odd td.sorting_1 {
+    background-color: #9FAFD1;
+}
+table.dataTable tr.DTTT_selected.odd td.sorting_2 {
+    background-color: #9FAFD1;
+}
+table.dataTable tr.DTTT_selected.odd td.sorting_3 {
+    background-color: #9FAFD1;
+}
+table.dataTable tr.DTTT_selected.even {
+    background-color: #B0BED9;
+}
+table.dataTable tr.DTTT_selected.even td.sorting_1 {
+    background-color: #B0BED9;
+}
+table.dataTable tr.DTTT_selected.even td.sorting_2 {
+    background-color: #B0BED9;
+}
+table.dataTable tr.DTTT_selected.even td.sorting_3 {
+    background-color: #B0BED9;
+}
+=======
 
 table.DTTT_selectable tbody tr {
     cursor: pointer;
@@ -87,6 +147,7 @@ table.dataTable tr.DTTT_selected.even td.sorting_3 {
     background-color: #B0BED9;
 }
 
+>>>>>>> GithubRMS/master
 div.DTTT_collection {
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(0, 0, 0, 0.4);
@@ -97,12 +158,18 @@ div.DTTT_collection {
     width: 150px;
     z-index: 2002;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 div.DTTT_collection_background {
     background: url("../images/background.png") repeat scroll left top transparent;
     z-index: 2001;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 div.DTTT_collection button.DTTT_button, div.DTTT_collection div.DTTT_button, div.DTTT_collection a.DTTT_button {
     box-shadow: 1px 1px 3px #999999;
     display: block;
@@ -112,9 +179,14 @@ div.DTTT_collection button.DTTT_button, div.DTTT_collection div.DTTT_button, div
     position: relative;
     right: 0;
 }
+<<<<<<< HEAD
+.DTTT_print_info {
+    background: -moz-linear-gradient(center top , #FFFFFF 0%, #F3F3F3 89%, #F9F9F9 100%) repeat scroll 0 0 transparent;
+=======
 
 .DTTT_print_info {
     background: -moz-linear-gradient(center top, #FFFFFF 0%, #F3F3F3 89%, #F9F9F9 100%) repeat scroll 0 0 transparent;
+>>>>>>> GithubRMS/master
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 6px 6px 6px 6px;
     box-shadow: 0 3px 7px rgba(0, 0, 0, 0.5);
@@ -130,14 +202,20 @@ div.DTTT_collection button.DTTT_button, div.DTTT_collection div.DTTT_button, div
     top: 50%;
     width: 400px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .DTTT_print_info h6 {
     font-size: 28px;
     font-weight: normal;
     line-height: 28px;
     margin: 1em;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .DTTT_print_info p {
     font-size: 14px;
     line-height: 20px;

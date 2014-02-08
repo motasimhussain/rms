@@ -1,12 +1,28 @@
+<<<<<<< HEAD
+
+body {
+    background: none repeat scroll 0 0 #E5E5E5;
+    color: #3F3F3F;
+    font-family: 'Open Sans',sans-serif;
+=======
 body {
     background: none repeat scroll 0 0 #E5E5E5;
     color: #3F3F3F;
     font-family: 'Open Sans', sans-serif;
+>>>>>>> GithubRMS/master
     font-size: 14px;
     line-height: 24px;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+a {
+    color: #000088;
+}
+a:hover {
+    color: #880000;
+}
+=======
 
 a {
     color: #000088;
@@ -16,6 +32,7 @@ a:hover {
     color: #880000;
 }
 
+>>>>>>> GithubRMS/master
 table {
     font-family: Calibri;
     height: auto;
@@ -25,11 +42,17 @@ table {
     text-transform: capitalize;
     width: 100%;
 }
+<<<<<<< HEAD
+.border {
+    border: 1px solid #2E627C;
+}
+=======
 
 .border {
     border: 1px solid #2E627C;
 }
 
+>>>>>>> GithubRMS/master
 .header {
     background: none repeat scroll 0 0 #2E627C;
     color: #D0D0D0;
@@ -41,7 +64,10 @@ table {
     text-transform: capitalize;
     width: 100%;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #top {
     background: none repeat scroll 0 0 #2E627C;
     border-bottom: 5px solid #7599A9;
@@ -49,11 +75,17 @@ table {
     line-height: 70px;
     padding: 0 10px;
 }
+<<<<<<< HEAD
+#header {
+    float: left;
+}
+=======
 
 #header {
     float: left;
 }
 
+>>>>>>> GithubRMS/master
 #header h1 {
     color: #FFFFFF;
     font-size: 33px;
@@ -62,16 +94,25 @@ table {
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+#topmenu {
+    text-align: right;
+}
+=======
 
 #topmenu {
     text-align: right;
 }
 
+>>>>>>> GithubRMS/master
 .right-img {
     margin: 0 6px -9px 0;
     text-align: center;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #sidebar {
     background: none repeat scroll 0 0 #FFFFFF;
     border-radius: 10px 10px 10px 10px;
@@ -80,18 +121,27 @@ table {
     margin-bottom: 15px;
     padding: 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .user {
     color: #000000;
     margin: 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #topmenu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #topmenu li {
     display: inline;
     height: auto;
@@ -99,7 +149,10 @@ table {
     position: relative;
     width: 100px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #topmenu li a {
     background: none repeat scroll 0 0 #35718F;
     border-radius: 7px 7px 7px 7px;
@@ -107,12 +160,18 @@ table {
     padding: 14px 10px;
     text-decoration: none;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #topmenu li a:hover {
     background: none repeat scroll 0 0 #EEEEEE;
     color: #000000;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #contentwrap {
     background: none repeat scroll 0 0 #F9F9F9;
     border: 1px solid #C9C9C9;
@@ -120,13 +179,19 @@ table {
     margin: 20px auto;
     width: 980px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft {
     float: left;
     padding: 20px 0 20px 20px;
     width: 200px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft h3 {
     background: none repeat scroll 0 0 #2E627C;
     border-radius: 7px 0 7px 0;
@@ -135,18 +200,27 @@ table {
     font-weight: bold;
     padding: 3px 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft ul li {
     color: #FFFFFF;
     margin: 0 0 5px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft ul li a {
     background: none repeat scroll 0 0 #35718F;
     border-radius: 7px 7px 7px 7px;
@@ -156,12 +230,18 @@ table {
     padding: 3px 10px;
     text-decoration: none;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cleft ul li a:hover {
     background: none repeat scroll 0 0 #EEEEEE;
     color: #000;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cright {
     background: none repeat scroll 0 0 #FFFFFF;
     border-bottom-right-radius: 7px;
@@ -171,7 +251,10 @@ table {
     padding: 0 20px 20px;
     width: 700px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 .cright h2 {
     background: none repeat scroll 0 0 #FFFAAE;
     border-radius: 7px 7px 7px 7px;
@@ -181,7 +264,10 @@ table {
     margin: 20px -10px 10px;
     padding: 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #footer {
     background: none repeat scroll 0 0 #4D606E;
     bottom: 0;
@@ -191,13 +277,27 @@ table {
     position: fixed;
     width: 100%;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #footer a {
     border-bottom: 1px dotted #FFFFFF;
     color: #FFFFFF;
     margin-right: 25px;
     text-decoration: none;
 }
+<<<<<<< HEAD
+#footer a:hover {
+    border-bottom: 1px dotted #CCCCCC;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+=======
 
 #footer a:hover {
     border-bottom: 1px dotted #CCCCCC;
@@ -211,11 +311,15 @@ table {
     float: right;
 }
 
+>>>>>>> GithubRMS/master
 .clear {
     clear: both;
     padding: 0 0 10px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #heading-content {
     color: #000000;
     font-family: Calibri;
@@ -225,7 +329,10 @@ table {
     text-transform: capitalize;
     width: 95%;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 p {
     display: inline;
     margin-left: 29px;

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> GithubRMS/master
 #close {
     background: none repeat scroll 0 0 #FFFFFF;
     border-radius: 12px 12px 12px 12px;
@@ -9,36 +13,57 @@
     text-decoration: none;
     width: 25px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #form_process {
     margin: auto;
     width: 300px;
 }
+<<<<<<< HEAD
+#form_login select {
+    width: 84%;
+}
+=======
 
 #form_login select {
     width: 84%;
 }
 
+>>>>>>> GithubRMS/master
 #form_login {
     margin: auto;
     width: 175px;
     height: 130px;
 }
+<<<<<<< HEAD
+#form_process [type="text"] {
+    width: 96%;
+}
+=======
 
 #form_process [type="text"] {
     width: 96%;
 }
 
+>>>>>>> GithubRMS/master
 #form_process table {
     font-family: open sans;
     font-size: 13px;
     text-align: left;
 }
+<<<<<<< HEAD
+#form_process select {
+    width: 100%;
+}
+=======
 
 #form_process select {
     width: 100%;
 }
 
+>>>>>>> GithubRMS/master
 #form_submit_popup {
     background: none repeat scroll 0 0 #2E627C;
     border: 1px solid #E0E0E0;
@@ -51,7 +76,10 @@
     position: relative;
     top: 15px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #form_submit_normal {
     background: none repeat scroll 0 0 #2E627C;
     border: 1px solid #E0E0E0;
@@ -62,26 +90,41 @@
     height: 30px;
     margin-top: 7px;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> GithubRMS/master
 #login-error {
     float: left;
     left: -100px;
     position: relative;
 }
+<<<<<<< HEAD
+#form_process table td {
+    width: 50%;
+}
+=======
 
 #form_process table td {
     width: 50%;
 }
 
+>>>>>>> GithubRMS/master
 #right-width {
     width: 70%;
     margin: auto;
 }
+<<<<<<< HEAD
+#right {
+    float: right;
+}
+=======
 
 #right {
     float: right;
 }
 
+>>>>>>> GithubRMS/master
 #left {
     float: left;
 }
